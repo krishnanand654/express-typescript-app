@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "username": "johndoe",
+    "password": "hashedpassword123",
+    "email": "johndoe@example.com",
+    "roles": [
+      "user"
+    ]
+  },
+  {
+    "id": 1730286871651,
+    "username": "Aeron",
+    "password": "$argon2id$v=19$m=65536,t=3,p=4$ym/GsvI0UilRH/DvvUfiVw$0sH4bWhOzq22CbNLlMoG2wlaLuGLO0EqvcZr034sHA0",
+    "email": "aeron@gmail.com"
+  }
+]
